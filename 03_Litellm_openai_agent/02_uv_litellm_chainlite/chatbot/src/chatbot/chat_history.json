@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Hey dude how r u?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey! I'm doing well, thanks for asking. How are you?\n"
+  },
+  {
+    "role": "user",
+    "content": "im also gud thanks for asking"
+  },
+  {
+    "role": "assistant",
+    "content": "Awesome! Glad to hear it. Is there anything I can help you with today?\n"
+  }
+]
